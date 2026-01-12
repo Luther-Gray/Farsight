@@ -8,7 +8,7 @@ Use this option under the Tools Menu to increase the Clipping Limit.
 
 ![alt text](<Images/Farsight_Image.png>)
 
-## Understanding of Scale
+## ⛰️ Understanding of Scale
 *The map of Final Fantasy XV's playable area is around 128000m. Or 64km².*
 
 *That is also the size of the purple plane.*
